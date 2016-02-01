@@ -1,2 +1,2 @@
-# LeeCodeCpp
+# LeetCodeCpp
 LeetCode cpp answers
